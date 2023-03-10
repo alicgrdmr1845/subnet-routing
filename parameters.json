@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm1_name": {
+            "value": null
+        },
+        "virtualMachines_vm2_name": {
+            "value": null
+        },
+        "virtualMachines_vm3_name": {
+            "value": null
+        },
+        "routeTables_udr_table1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm116_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2952_name": {
+            "value": null
+        },
+        "networkInterfaces_vm3536_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm3_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm3_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_routing_table_name": {
+            "value": null
+        }
+    }
+}
